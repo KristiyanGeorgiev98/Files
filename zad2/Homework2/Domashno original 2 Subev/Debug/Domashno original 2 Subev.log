@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\it\source\repos\domashno original 2 subev\domashno original 2 subev\source.cpp(14): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\it\source\repos\domashno original 2 subev\domashno original 2 subev\source.cpp(14): warning C4309: '=': truncation of constant value
+c:\users\it\source\repos\domashno original 2 subev\domashno original 2 subev\source.cpp(15): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\it\source\repos\domashno original 2 subev\domashno original 2 subev\source.cpp(15): warning C4309: '=': truncation of constant value
+c:\users\it\source\repos\domashno original 2 subev\domashno original 2 subev\source.cpp(60): warning C4101: 'FN': unreferenced local variable
+  Domashno original 2 Subev.vcxproj -> C:\Users\IT\source\repos\Domashno original 2 Subev\Debug\Domashno original 2 Subev.exe
